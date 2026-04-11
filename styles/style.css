@@ -1,3 +1,45 @@
 body {
-  background-image: url('https://i.pinimg.com/originals/c1/3b/d4/c13bd47825e0f1ad9d8094631a65fd4a.jpg');
+  background-image: url('https://www.shutterstock.com/image-vector/four-bright-spotlights-shine-on-260nw-2570696771.jpg');
+  background-size: cover;
+}
+
+#draggable1,
+#draggable2,
+#draggable3,
+#draggable4 {
+  width: 150px;
+  height: 150px;
+  padding: 1em;
+  float: right;
+  margin: 10px 10px 10px 10px;
+  background-color: rgb(91, 91, 91);
+}
+
+#droppable1,
+#droppable2,
+#droppable3,
+#droppable4 {
+  width: 150px;
+  height: 150px;
+  padding: 1em;
+  background-color: rgb(91, 91, 91);
+  position: absolute;
+}
+
+#droppable1 {
+  left: 150px;
+  bottom: 5000px;
+}
+
+#droppable2 {
+  left: 1000px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+h1 {
+  color: white;
 }
