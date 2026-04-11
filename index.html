@@ -1,12 +1,57 @@
-<!-- <body> -->
-<div class="gameBoard w-80 vh-50 border">
-  
-<!--   <p contenteditable="true">This is an editable paragraph.</p> -->
-  
-  
- 
-  <span id="gamePiece" class="border rounded-pill draggable">game piece</span>
-  
-  <p id="gameResult"></p> 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Spotlight!</title>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.2/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/styles/style.css">
+
+</head>
+
+<body>
+
+<h1>Give them the spotlight!</h1>
+
+
+<div id="draggable1" class="ui-widget-content">
+  <p><img
+      src="https://static.vecteezy.com/system/resources/thumbnails/055/281/612/small_2x/silhouette-of-a-man-playing-guitar-on-transparent-background-free-png.png"></img>
+  </p>
 </div>
-<!-- </body> -->
+<div id="draggable2" class="ui-widget-content">
+  <p><img
+      src="https://images.vexels.com/media/users/3/140220/isolated/lists/caa977d3c78a1cb07622c1b2954edf57-female-guitarist-silhouette.png"></img>
+  </p>
+</div>
+<div id="draggable3" class="ui-widget-content">
+  <p><img
+      src="https://images.vexels.com/media/users/3/145842/isolated/lists/237d6207c72953ee593d9cfb2e66aebc-singer-singing-silhouette.png"></img>
+  </p>
+</div>
+<div id="draggable4" class="ui-widget-content">
+  <p><img
+      src="https://images.vexels.com/media/users/3/145638/isolated/lists/50fd8272d07a41e22f876ca1de2b89f6-drummer-solo-silhouette.png"></img>
+  </p>
+</div>
+
+<div id="droppable1" class="ui-widget-header"></div>
+<div id="droppable2" class="ui-widget-header"></div>
+<div id="droppable3" class="ui-widget-header"></div>
+<div id="droppable4" class="ui-widget-header"></div>
+
+</body>
+
+
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://code.jquery.com/ui/1.14.2/jquery-ui.js"></script>
+
+<script type="module">
+  import { dragChoice, username } from '/js/choice-script.js';
+  dragChoice();
+</script>
+
+
+
+</html>
