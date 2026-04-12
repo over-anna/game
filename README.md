@@ -1,14 +1,14 @@
 # Spotlight - Organizer Game
-4/13/2026
-Made by Anna Patillo, using Barry Cumbie's <a href="https://github.com/barrycumbie/ubiquitous-waffle-some-game">ubiquitous-waffle-some-game</a> as a base.
+<p>4/13/2026 | Made by Anna Patillo, using Barry Cumbie's <a href="https://github.com/barrycumbie/ubiquitous-waffle-some-game">ubiquitous-waffle-some-game</a> as a base.</p>
 
-In this game, the player should organize the four band members however they wish. They each get a place in the spotlight.
+<p>In this game, the player should organize the four band members however they wish. They each get a place in the spotlight.</p>
 
-REPO : <a href="https://github.com/over-anna/spotlight">CLICK ME</a>
-APP : <a href="https://over-anna.github.io/spotlight/">CLICK ME</a>
-WIREFRAME : <a href="https://github.com/over-anna/spotlight/blob/main/images/Spotlight_Wireframe.png">CLICK ME</a>
+<p>REPO : <a href="https://github.com/over-anna/spotlight">CLICK ME</a></p>
+<p>APP : <a href="https://over-anna.github.io/spotlight/">CLICK ME</a></p>
+<p>WIREFRAME : <a href="https://github.com/over-anna/spotlight/blob/main/images/Spotlight_Wireframe.png">CLICK ME</a></p>
 
-Uses Bootstrap styling as well as jquery.
+<p>Uses Bootstrap styling as well as jquery.</p>
+
 ```
 <div id="draggable1" class="ui-widget-content">
       <p><img
@@ -48,4 +48,4 @@ export function dragChoice() {
   </script>
 ```
 
-These code snippets work together to create draggable images. It uses the .js function to define draggables and droppables, then creates the actual images as div tags.
+<p>These code snippets work together to create draggable images. It uses the .js function to define draggables and droppables, then creates the actual images as div tags.</p>
