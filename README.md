@@ -43,4 +43,4 @@ export function dragChoice() {
   </script>
 ```
 
-These code snippets work together to create draggable images. It uses the .js function to define draggables and droppables, then creates the actual images as <div> tags.
+These code snippets work together to create draggable images. It uses the .js function to define draggables and droppables, then creates the actual images as div tags.
