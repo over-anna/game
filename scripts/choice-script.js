@@ -1,6 +1,8 @@
+
+
 export function dragChoice() {
 
-  console.log('ini drag choice f/n');
+  console.log('ini drag stars');
 
   $("#draggable1, #draggable2, #draggable3, #draggable4").draggable({ revert: "invalid" });
 
