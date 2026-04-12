@@ -16,9 +16,8 @@ body {
 #draggable2,
 #draggable3,
 #draggable4 {
-  width: 150px;
-  height: 150px;
-  padding: 1em;
+  width: 100px;
+  height: 100px;
   float: right;
   margin: 10px 10px 10px 10px;
   background-color: transparent;
@@ -28,33 +27,33 @@ body {
 #droppable2,
 #droppable3,
 #droppable4 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   padding: 1em;
   background-color: transparent;
   position: absolute;
-  top: 530px;
+  top: 430px;
 }
 
 #droppable1 {
-  left: 165px;
+  left: 146px;
 }
 
 #droppable2 {
-  left: 533px;
+  left: 435px;
 }
 
 #droppable3 {
-  left: 935px;
+  left: 760px;
 }
 
 #droppable4 {
-  left: 1360px;
+  left: 1100px;
 }
 
 img {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
 
 h4 {
