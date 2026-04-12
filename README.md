@@ -1,11 +1,11 @@
 # Spotlight - Organizer Game
-<p>4/13/2026 | Made by Anna Patillo, using Barry Cumbie's <a href="https://github.com/barrycumbie/ubiquitous-waffle-some-game">ubiquitous-waffle-some-game</a> as a base.</p>
+<p>4/13/2026 | Made by Anna Patillo, using Barry Cumbie's <a href="https://github.com/barrycumbie/ubiquitous-waffle-some-game" target="_blank">ubiquitous-waffle-some-game</a> as a base.</p>
 
 <p>In this game, the player should organize the four band members however they wish. They each get a place in the spotlight.</p>
 
-<p>REPO : <a href="https://github.com/over-anna/spotlight">CLICK ME</a></p>
-<p>APP : <a href="https://over-anna.github.io/spotlight/">CLICK ME</a></p>
-<p>WIREFRAME : <a href="https://github.com/over-anna/spotlight/blob/main/images/Spotlight_Wireframe.png">CLICK ME</a></p>
+<p>REPO : <a href="https://github.com/over-anna/spotlight" target="_blank">CLICK ME</a></p>
+<p>APP : <a href="https://over-anna.github.io/spotlight/" target="_blank">CLICK ME</a></p>
+<p>WIREFRAME : <a href="https://github.com/over-anna/spotlight/blob/main/images/Spotlight_Wireframe.png" target="_blank">CLICK ME</a></p>
 
 <p>Uses Bootstrap styling as well as jquery.</p>
 
